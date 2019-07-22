@@ -1,8 +1,0 @@
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/numbers.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/install/local.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/install.dir
-/home/alexi/src/trial/numbers/cmake-build-debug/CMakeFiles/numbers_autogen.dir
