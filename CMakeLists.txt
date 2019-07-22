@@ -3,7 +3,7 @@ project(numbers)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -pthread")
 
-set(NUMBERS_SOURCES main.cpp)
+set(NUMBERS_SOURCES main.cpp BigNumber.cpp BigNumber.h)
 
 # Tell CMake to run moc when necessary:
 set(CMAKE_AUTOMOC ON)
